@@ -1,0 +1,11 @@
+
+*.log
+panic*.log.*
+
+*.cdslck*
+
+lvsRunDir/*
+drcRunDir/*
+
+abstract.log*
+abstract.record*
